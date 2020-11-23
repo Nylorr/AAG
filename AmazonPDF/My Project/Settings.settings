@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="NomSave" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AdresseFSave" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="EmailSave" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DASave" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2020-11-23</Value>
+    </Setting>
+    <Setting Name="ArticlesSave" Type="System.String" Scope="User">
+      <Value Profile="(Default)">- </Value>
+    </Setting>
+    <Setting Name="AdresseLSave" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NbCommandeSave" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LivreSave" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2020-11-23</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
